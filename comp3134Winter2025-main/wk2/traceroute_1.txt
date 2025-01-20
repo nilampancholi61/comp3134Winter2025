@@ -1,0 +1,10 @@
+traceroute to 167.99.182.27 (167.99.182.27), 64 hops max, 40 byte packets
+ 1  10.0.0.1 (10.0.0.1)  9.297 ms  10.476 ms  10.911 ms
+ 2  pool-173-32-36-1.cpe.net.cable.rogers.com (173.32.36.1)  11.915 ms  11.019 ms  12.352 ms
+ 3  93-dgw01.hnsn.rmgt.net.rogers.com (209.148.249.14)  6.395 ms  8.378 ms  12.021 ms
+ 4  209.148.235.65 (209.148.235.65)  11.182 ms
+    unallocated-static.rogers.com (72.139.136.26)  15.119 ms
+    0-5-0-5-cgw01.mtnk.asr9k.rmgt.net.rogers.com (209.148.232.225)  16.326 ms
+ 5  209.148.235.222 (209.148.235.222)  10.957 ms  14.421 ms  15.469 ms
+ 6  digitalocean-tor1-edge2.ip4.torontointernetxchange.net (206.108.35.15)  15.601 ms  11.599 ms  12.522 ms
+ 7  * * 143.244.224.38 (143.244.224.38)  23.097 ms
